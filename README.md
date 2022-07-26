@@ -2,14 +2,14 @@
 
 https://prnt.sc/nXodoh02HQ5u
 
-# Получаем контакт по id
+Получаем контакт по id
 
 https://prnt.sc/80_KG0ef1haQ
 
-# Добавялем контакт
+Добавялем контакт
 
 https://prnt.sc/OmdzchCG4-6j
 
-# Удаляем контакт
+Удаляем контакт
 
 https://prnt.sc/MrKLKb7pv-Uj
